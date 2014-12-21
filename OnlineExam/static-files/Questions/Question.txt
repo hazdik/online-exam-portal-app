@@ -1,0 +1,7 @@
+1, The following countries have a border with India to the North West,America,Pakistan,China,Bhutan,b
+2, Which state in India has the highest literacy rate,Tamil Nadu,Kerala,Mizoram,Lakshadweep,b
+3, What is the ratio of the width of the Indian Flag to the its Length,1:1,2.3,4:2,2:4,b
+4, The song Jana-gana-Mana was originally composed in,Bengali,Hindi,Urdu,Sanskrit,a
+5, The constitution of India was adopted on ,1947,1948,1949,1950,c
+
+
